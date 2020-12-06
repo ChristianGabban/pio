@@ -10,9 +10,9 @@ clouds:
   openstack:
     auth:
       auth_url: http://10.235.1.202/identity
-      username: "admin"
-      project_id: 1aaedad4074d47e6b2f45338efa19658
-      project_name: "admin"
+      username: "utente-pio"
+      project_id: 6959ac5203e44a3ba8b759d877dd75fa
+      project_name: "progetto-pio"
       user_domain_name: "Default"
     region_name: "RegionOne"
     interface: "public"
